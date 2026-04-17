@@ -1,50 +1,32 @@
-# 📱 DeviceSpec Pro
-### **The Ultimate Hardware Forensic Tool for Android**
-> **Breaking the Android 14 Barrier — Real Battery & Storage Health for Legacy Devices!**
+# Device Specification
 
----
+Welcome to the Device Specification repository!
 
-## 📸 App Preview
-<p align="center">
-  <img src="YOUR_BATTERY_SCREENSHOT_LINK" width="250" />
-  <img src="YOUR_STORAGE_SCREENSHOT_LINK" width="250" />
-  <img src="YOUR_GENERAL_SCREENSHOT_LINK" width="250" />
-</p>
+## Features 🚀
+- **User-friendly Interface**: Simple and intuitive layout.
+- **Cross-Platform Compatibility**: Works seamlessly on various platforms.
+- **Real-time Data Processing**: Fast and efficient data handling.
+- **Multi-language Support**: Available in several languages to cater to global users.
 
----
+## Screenshots 📸
+Below is a gallery of screenshots from the project:
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
+    <img src="Screenshot/screenshot1.png" alt="Screenshot 1" style="margin: 10px; max-width: 300px;" />
+    <img src="Screenshot/screenshot2.png" alt="Screenshot 2" style="margin: 10px; max-width: 300px;" />
+    <img src="Screenshot/screenshot3.png" alt="Screenshot 3" style="margin: 10px; max-width: 300px;" />
+    <img src="Screenshot/screenshot4.png" alt="Screenshot 4" style="margin: 10px; max-width: 300px;" />
+</div>
 
-## ✨ Key Killers (Unique Features)
+## Installation 📦
+1. Clone the repository: `git clone https://github.com/Waseemshahazad/DeviceSpec.git`
+2. Navigate into the directory: `cd DeviceSpec`
+3. Install dependencies: `npm install`
 
-### 🔋 1. Legacy Battery Forensic (Exclusive)
-* **Cycles Count:** Retrieve total charge cycles even on **Android 10, 11, 12, and 13**.
-* **True Health Status:** Get the exact percentage of battery degradation.
-* **Calibration Engine:** Real-time progress tracking to verify hardware accuracy.
+## Usage 🔧
+To run the application, use: `npm start`
 
-### 💾 2. Storage Chip Health (Anti-Lag Diagnostic)
-* **Chip Lifespan:** Detects the physical health of your **UFS 2.1/3.0+** or **eMMC** chip.
-* **Lag Detection:** Find out if system "hangs" are due to a dying storage chip.
-* **Manufacturer Info:** Identify if your memory is **Samsung, Micron, or SK Hynix**.
+## Contributing 🤝
+We welcome contributions! Please read our CONTRIBUTING.md file for guidelines.
 
-### ⚡ 3. Native Performance
-* **Kotlin Powered:** Pure Kotlin Platform Channels for lightning-fast hardware communication. No heavy C++ overhead.
-* **Deep Hardware Probe:** Accesses CPU micro-architecture (Kryo, Cortex) and GPU vendor details directly.
-
----
-
-## 🛠 Tech Stack
-* **Frontend:** Flutter (Dart)
-* **Backend:** Kotlin (Native Platform Channels)
-* **UI Style:** Modern Dark Modular UI
-
----
-
-## 🚦 Project Status: COMING SOON 🚀
-I am currently fine-tuning the native bridges and polishing the source code for a public release.
-
-### **How to Support?**
-1. **Star** this repository ⭐ (To show your interest!)
-2. **Watch** for updates 🔔 (To get notified when the code goes live)
-3. **Share** with the developer community!
-
----
-<p align="center">Made with ❤️ for the Android Community</p>
+## License 📄
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
