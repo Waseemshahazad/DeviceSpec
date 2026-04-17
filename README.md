@@ -5,14 +5,13 @@
 
 ## 📸 App Preview
 <p align="center">
-  <img src="screenshots/Battery.jpeg" width="250" title="Battery Health" />
-  <img src="screenshots/Storage.jpeg" width="250" title="Storage Health" />
-  <img src="screenshots/CPU.jpeg" width="250" title="CPU Details" />
+  <img src="Screenshot/Battery.jpeg" width="250" title="Battery Health" />
+  <img src="Screenshot/Storage.jpeg" width="250" title="Storage Health" />
+  <img src="Screenshot/CPU.jpeg" width="250" title="CPU Details" />
 </p>
-
 <p align="center">
-  <img src="screenshots/Ram.jpeg" width="250" title="RAM Specs" />
-  <img src="screenshots/General.jpeg" width="250" title="General Info" />
+  <img src="Screenshot/Ram.jpeg" width="250" title="RAM Specs" />
+  <img src="Screenshot/General.jpeg" width="250" title="General Info" />
 </p>
 
 ---
